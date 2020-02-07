@@ -14,7 +14,7 @@ var rl = readlline.createInterface({
 //1. menampilkan menu perpustakaan
 function menuPerpus() {
     console.log('===========================================================');
-    console.log(`Welcome to Simple Library Menu `);
+    console.log(`Welcome to Simple Library App `);
     console.log('===========================================================');
     console.log(`
 ===========================================================
